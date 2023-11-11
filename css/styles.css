@@ -1,10 +1,30 @@
 :root {
-    box-sizing: border-box;
+box-sizing: border-box;
 }
 
 * {
-    margin: 0;
-    padding: 0;
+margin: 0;
+padding: 0;
 }
 
-/* Bakgrundsfärger skall också ligga i script.js */
+/* Bakgrundsfärger används bara till att göra html och css demo */
+
+.bar-xs-col {
+background-color: aquamarine;
+}
+
+.bar-sm-col {
+
+}
+
+.bar-md-col {
+
+}
+
+.bar-lg-col {
+
+}
+
+.bar-xl-col {
+
+}
