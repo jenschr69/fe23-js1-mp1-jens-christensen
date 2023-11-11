@@ -10,10 +10,8 @@
 const barsToCreate = 5;
 
 /* Generera antal div'ar */
+for
 
-/* Skapa olika classes för varje bar*/
-/* Tilldela färgvariabel */ 
-/* */
 
 /* Lägga till klasser på div'er */
 
