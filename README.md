@@ -3,3 +3,5 @@ Grit Academy - JavaScript 1 - Miniprojekt 1
 
 Rader och kolumner
 
+Publicerad på: grit.jenschrchristensen.se/js1/rader-och-kolumner
+
